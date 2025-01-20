@@ -12,18 +12,23 @@ VEHICLE TYPE CODE 1: Type of vehicle involved in the collision.
 Summery:
 
 1) Determination of the most dangerous factors of accidents in each NY district
+
 ![image](https://github.com/user-attachments/assets/60055ebf-fa2d-42ef-a973-a9d80ff4a67d)
 
-2) Number of deaths and injuries caused by fast driving in a given district
+3) Number of deaths and injuries caused by fast driving in a given district
+
 ![image](https://github.com/user-attachments/assets/b54f0e8f-21a2-45cc-a088-3c8f04be0804)
 
-3) 3 most common factors of accidents by district and city-wide
+5) 3 most common factors of accidents by district and city-wide
+
 ![image](https://github.com/user-attachments/assets/4788cb6e-0162-4cfe-995e-bd5dd29b949b)
 
-4) Vehicles most often involved in accidents
+7) Vehicles most often involved in accidents
+
 ![image](https://github.com/user-attachments/assets/f687fc0f-9e2e-4029-bbe3-d3feef2a72d3)
 
-5) Statistics of the number of accidents for each district
+9) Statistics of the number of accidents for each district
+
 ![image](https://github.com/user-attachments/assets/e06e1e91-929f-4ce9-a77e-ce000e2b1db4)
 
 ![image](https://github.com/user-attachments/assets/0f147204-5578-4932-83f5-30d2d491d930)
